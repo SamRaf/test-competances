@@ -28,8 +28,10 @@ img {
 //HEADER
 
 .header {
-  border: 2px solid blue;
-
+  background-color: lightcoral;
   text-align: center;
   align-content: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
