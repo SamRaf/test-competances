@@ -1,11 +1,14 @@
 import React from "react";
-import "./App.css";
-
+import Header from "./components/Header";
+import backgroundImg from "./images/background-test-competances.png";
 function App() {
   return (
-    <div className="App">
-      <p>Hello World</p>
-    </div>
+    <>
+      <Header />
+      <div>
+        <img src={backgroundImg} alt="image sous le header" />
+      </div>
+    </>
   );
 }
 
