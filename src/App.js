@@ -7,24 +7,6 @@ function App() {
       <Header />
       <div>
         <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
-        <img src={backgroundImg} alt="image sous le header" />
       </div>
     </>
   );
