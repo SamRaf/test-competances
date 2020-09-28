@@ -25,14 +25,27 @@ img {
   }
 }
 
+//Pour aligner horizontalement
+.center {
+  text-align: center;
+}
+
 //HEADER
 
 .header {
   background-color: lightcoral;
-  text-align: center;
-  align-content: center;
-  //fixer le header apres le scroll
+  //fixer le header en haut apres le scroll
   position: fixed;
   width: 100%;
   top: 0;
+}
+
+//FOOTER
+
+.footer {
+  background-color: lightgreen;
+  //fixer le footer en bas apres le scroll
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }

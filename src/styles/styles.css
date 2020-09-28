@@ -24,13 +24,21 @@ img {
   }
 }
 
+.center {
+  text-align: center;
+}
+
 .header {
   background-color: lightcoral;
-  text-align: center;
-  -ms-flex-line-pack: center;
-      align-content: center;
   position: fixed;
   width: 100%;
   top: 0;
+}
+
+.footer {
+  background-color: lightgreen;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }
 /*# sourceMappingURL=styles.css.map */
