@@ -3,8 +3,8 @@ import "../styles/styles.css";
 
 function Header() {
   return (
-    <div className="center">
-      <h1 className="header">Weblib</h1>;
+    <div className="ch">
+      <h1 className="header">Weblib</h1>
     </div>
   );
 }
